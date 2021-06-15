@@ -11,7 +11,7 @@ Caractéristiques techniques :
 ![L-33164](/img/L-33164.jpg)
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Schémas :
 
